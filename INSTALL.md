@@ -129,13 +129,13 @@ sudo make -C rgbds CFLAGS=-O2 install
 To install the software required for **pokecrystal**:
 
 ```bash
-sudo apt install make clang git sed
+pkg install make clang git sed
 ```
 
 To install **rgbds**:
 
 ```bash
-sudo apt install rgbds
+pkg install rgbds
 ```
 
 ### Other distros
